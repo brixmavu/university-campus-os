@@ -1,0 +1,11 @@
+{
+  "name": "university-campus-os",
+  "version": "1.0.0",
+  "description": "Vanilla Node.js static server for University Campus OS",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "author": "Campus OS Team",
+  "license": "MIT"
+}
